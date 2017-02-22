@@ -18,6 +18,8 @@
     - [必应](http://cn.bing.com/)
     - [虫部落](http://www.chongbuluo.com/)
     - [Segmentfault](https://segmentfault.com)
+    - [v2ex](https://www.v2ex.com/)
+    - [知乎](http://www.zhihu.com/)
 - 本地搜索
     - [everything](http://www.voidtools.com/)
 
@@ -25,23 +27,32 @@
 ## 设计
 - 图标素材
     - [easyicon](http://www.easyicon.net/)
+--网页设计
+    - [优秀网页设计](http://weibo.com/uidesign)
+    - [视觉中国](http://shijue.me/)
+    - []()
+    - []()
+    - []()
+- 配色
+    - [colorhexa](http://www.colorhexa.com/)
+    - [color-wheel](https://color.adobe.com/zh/create/color-wheel/)
+    - [colourlovers](http://www.colourlovers.com/)
+    - [webcolourdata](http://webcolourdata.com/)
+    - [Web安全色](http://www.bootcss.com/p/websafecolors/)
+    - [peise](http://www.peise.net/)
+    - [materialpalette](https://www.materialpalette.com/)
+    - []()
+    - []()
+    - []()
+    - []()
+    - []()    
     
-
-- []()
-
-
 
 ## 前端
 - [w3school](http://www.w3school.com.cn/)
 - [bootstrap中文站](http://www.bootcss.com/)
 - [前端工具集](http://www.w3cplus.com/source/front-end-developer-excellent-tool.html)
 - [醉牛前端博客](http://f2er.club/)
-  
-- []()
-- []()
-- []()
-- []()
-- []()
 - []()
 
 ## 后端
@@ -65,7 +76,7 @@
             - [daainini博客](http://blog.csdn.net/xsjqqq123)
 - LUA
     - [LUA5.3在线手册](http://www.lua.org/manual/5.3/manual.html)            
-    -[]()            
+    - [LUA5.3中文在线手册](http://cloudwu.github.io/lua53doc/)            
     -[]()            
 
             
@@ -109,10 +120,10 @@
     - [brackets](http://brackets.io/)
     - [editplus](https://www.editplus.com/)
     - [ultraedit](http://www.ultraedit.com/)
-    - []()
+ 
 - 比较工具
-    -[Beyond Compare](http://www.scootersoftware.com/index.php)
-    -[codecompare](https://www.devart.com/codecompare/download.html)
+    - [Beyond Compare](http://www.scootersoftware.com/index.php)
+    - [codecompare](https://www.devart.com/codecompare/download.html)
 
 
 ## 综合
@@ -121,7 +132,24 @@
 - [csdn](http://www.csdn.net/)
 - [codeproject](https://www.codeproject.com/)
 - [伯乐在线](http://hao.jobbole.com/#rd)
-- []()
+- [掘金](https://gold.xitu.io/)
+- [酷壳](http://coolshell.cn/)
+- [廖雪峰](http://www.liaoxuefeng.com/)
+- [腾讯alloyteam](http://www.alloyteam.com/)
+- [鑫空间](http://www.zhangxinxu.com/)
+- [阮一峰](http://www.ruanyifeng.com/blog/)
+- [轩枫阁前端博客](http://www.xuanfengge.com/)
+- [前端开发博客](http://caibaojian.com/)
+- [FED社区](http://frontenddev.org/)
+- [w3ctech](https://www.w3ctech.com/)
+- [csstricks](https://css-tricks.com/)
+- [前端网](http://www.qdfuns.com/)
+
+- 周刊
+    - [奇舞周刊](https://weekly.75team.com/)
+    - [fex技术周刊](http://fex.baidu.com/weekly/)
+    - [码农周刊](http://weekly.manong.io/)
+
 
 
 ## 在线学习
