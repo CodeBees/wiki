@@ -74,6 +74,7 @@
             - [qwt图表工具](http://qwt.sourceforge.net/)
             - [很多Qt写的linux软件](https://www.linux-apps.com/browse/ord/latest/)
             - [daainini博客](http://blog.csdn.net/xsjqqq123)
+            - [寒山居士博客](http://www.heilqt.com/)
 - LUA
     - [LUA5.3在线手册](http://www.lua.org/manual/5.3/manual.html)            
     - [LUA5.3中文在线手册](http://cloudwu.github.io/lua53doc/)            
